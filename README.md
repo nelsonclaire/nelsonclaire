@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Claire 👋
+
+I'm currently studying at Makers Academy (January - April 2022), learning to become a Developer.  I will then go back to the John Lewis Partnership and join a team in the digital space.
+
+[![Claire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nelsonclaire&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nelsonclaire&show_icons=true&theme=dark))](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonclaire&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **nelsonclaire/nelsonclaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
