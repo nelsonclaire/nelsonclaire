@@ -1,6 +1,6 @@
 ### Hi there, I'm Claire 👋
 
-I completed the Makers bootcamp in April 2022 and I am returning to the John Lewis Partnership and join a team in the digital space.
+I completed the Makers bootcamp in April 2022 and I am returning to the John Lewis Partnership to join a team in the digital space.
 
 [![Claire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nelsonclaire&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
